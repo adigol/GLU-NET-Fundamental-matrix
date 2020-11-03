@@ -1,7 +1,7 @@
 # GLU-NET-Fundamental-matrix
 Relative works:
-https://github.com/PruneTruong/GLU-Net
-https://github.com/JiawangBian/FM-Bench
+ https://github.com/PruneTruong/GLU-Net
+ https://github.com/JiawangBian/FM-Bench
 
 We used the maps of GLU-Net and used it to find a fundamental matrix in FM-Bench.
 
