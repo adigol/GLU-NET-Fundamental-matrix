@@ -36,5 +36,5 @@ Dataset	| recall | inliers before rate | inliers after rate	| Threshold	| distan
 TUM |	0.724	| 0.71075 |	0.744955 |	3 |	20
 TUM | 0.72 |	0.722516 |	0.751698 |	3 |	15
 TUM | 0.726 |	0.711742 |	0.743882 |	2 |	20
-TUM | 0.722	| 0.722569 | 2	| 15
+TUM | 0.722	| 0.722569 | 0.748998 | 2	| 15
 
