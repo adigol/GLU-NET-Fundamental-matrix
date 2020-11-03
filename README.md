@@ -20,16 +20,9 @@ We used the maps of GLU-Net and used it to find a fundamental matrix in FM-Bench
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-| Dataset	| Recall	| Inliers before rate | Inliers after rate	| Threshold	| Distance |
-| --------|:---- :|:----------------- :|:-----------------: |:-------- :| -------:|
-|CPC      |	0.099	|0.213729	           |0.225642	          |3	        |20       |
-|         |0.101	|0.211742	           |0.222566	          |3	        |15       |
-|         |0.85	  |0.215266	           |0.226008	          |2          |20       |
-|         |0.089	|0.216761	           |0.228251	          |2          |15       |
-
 Dataset	| recall | inliers before rate | inliers after rate	| Threshold	| distance
 --- | --- |--- |--- |--- | ---
 CPC |	0.099	| 0.213729 | 0.225642	| 3 |	20
-	0.101 |	0.211742	| 0.222566 | 3 | 15
-	0.85	| 0.215266	| 0.226008	| 2	| 20
-	0.089	| 0.216761	| 0.228251	| 2	| 15
+0.101 |	0.211742 | 0.222566 | 3 | 15
+0.85 | 0.215266	| 0.226008 | 2 | 20
+0.089 | 0.216761 | 0.228251 | 2	| 15
