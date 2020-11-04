@@ -8,10 +8,10 @@ We used the maps of GLU-Net and used it to find a fundamental matrix in FM-Bench
 # Test your own dataset
 1. Download the GLU-Net files(that related to the test files) and change the test_GLUNet.py file to the attached file.
 2. Add your dataset as a folder to the main folder.
-3. Run it
+3. Run it.
 4. put the results in the FM-Bench - Matches folder.
 5. In Pipeline/pipeline_Demo, put in comment all the function calls except GeometryEstimation and run it.
-6. Run Evaluation/Evaluate
+6. Run Evaluation/Evaluate.
 
 Dataset	| recall | inliers before rate | inliers after rate	| Threshold	| distance
 --- | --- |--- |--- |--- | ---
