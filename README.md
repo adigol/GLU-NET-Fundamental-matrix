@@ -49,6 +49,6 @@ Tanks_and_Temples |	0.402000 | 0.785416 | 0.837061 |	3 |	20
 Tanks_and_Temples | 0.397000 | 0.782090 | 0.824114 |	3 |	15
 Tanks_and_Temples | 0.381000 | 0.792710 | 0.837533 |	2 |	20
 Tanks_and_Temples | 0.378000 | 0.793245 | 0.835997 | 2 | 15
-**Tanks_and_Temples** | **0.681000** | **0.532790** | **0.753079** |
+**Tanks_and_Temples theirs** | **0.681000** | **0.532790** | **0.753079** |
 
 ![alt text](Results/Tanks_and_Temples.jpg)
