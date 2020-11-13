@@ -51,8 +51,11 @@ TUM | 0.722	| 0.722569 | 0.748998 | 2	| 15
 
 Dataset	| recall | inliers before rate | inliers after rate	| Threshold	| distance
 --- | --- |--- |--- |--- | ---
+Tanks_and_Temples | 0.464000 | 0.752426 | 0.799874 | 4 | 20
+Tanks_and_Temples | 0.379000 | 0.782090 | 0.826279 | 4 | 10
 Tanks_and_Temples |	0.402 | 0.785416 | 0.837061 |	3 |	20
 Tanks_and_Temples | 0.397 | 0.78209 | 0.824114 |	3 |	15
+Tanks_and_Temples | 0.334000 | 0.785679 | 0.828347 | 2 | 10
 Tanks_and_Temples | 0.381 | 0.792710 | 0.837533 |	2 |	20
 Tanks_and_Temples | 0.378 | 0.793245 | 0.835997 | 2 | 15
 **Tanks_and_Temples theirs** | **0.681** | **0.53279** | **0.753079** |
