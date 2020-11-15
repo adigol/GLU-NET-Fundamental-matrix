@@ -11,15 +11,15 @@ Explanation on the selection process.
 2. 	how to get the best points without checking any features inside the pictur	es?
 	•	we used cycle-consistency to evaluate each pixel
 	
-		![alt text](ReportPictures/pic1.png)
+	![alt text](ReportPictures/pic1.png)
 
 	•	We took the best with the smallest distance and not bigger than the threshold (between 2-4 pixel max distance)
 	
-		![alt text](ReportPictures/pic2.png)
+	![alt text](ReportPictures/pic2.png)
 
 	•	Then we pick the best points according to their position and not picking inside the same square.
 
-		![alt text](ReportPictures/pic3.png)
+	![alt text](ReportPictures/pic3.png)
 
 Then test our points on the FM-benchmark to check the quality of the dense matching
 
