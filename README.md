@@ -8,7 +8,7 @@ We used the maps of GLU-Net and used it to find a fundamental matrix in FM-Bench
 Explanation on the selection process. 
 1. The idea behind our project is to use dense matching between two pictures using GLU-NET and extract best matching points as “feature points” using cycle-consistency criterion and test it using FM-benchmark 
 
-2. 	how to get the best points without checking any features inside the pictures?
+2. 	how to get the best points without checking any features inside the pictures?\
 	•	we used cycle-consistency to evaluate each pixel
 	
 	![alt text](ReportPictures/pic1.png)
