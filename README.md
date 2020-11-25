@@ -13,15 +13,15 @@ Explanation on the selection process.
 	
 	![alt text](ReportPictures/pic1.png)
 
-	•	We took the best with the smallest distance and not bigger than the threshold (between 2-4 pixel max distance)
+	•	We took the best matches with the smallest distance and not bigger than a predefined threshold (between 2-4 pixel max distance)
 	
 	![alt text](ReportPictures/pic2.png)
 
-	•	Then we pick the best points according to their position and not picking inside the same square.
+	•	Then we picked the best points according to their position and not picking other points inside the same square.
 
 	![alt text](ReportPictures/pic3.png)
 
-Then test our points on the FM-benchmark to check the quality of the dense matching
+Then we tested our points on the FM-benchmark to check the quality of the dense matching.
 
 
 # Test your own dataset
@@ -31,6 +31,8 @@ Then test our points on the FM-benchmark to check the quality of the dense match
 4. put the results in the FM-Bench - Matches folder.
 5. In Pipeline/pipeline_Demo, put in comment all the function calls except GeometryEstimation and run it.
 6. Run Evaluation/Evaluate.
+
+# Our results
 
 Dataset	| recall | inliers before rate | inliers after rate	| Threshold	| distance
 --- | --- |--- |--- |--- | ---
