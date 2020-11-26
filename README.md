@@ -33,7 +33,7 @@ Then we tested our points on the FM-benchmark to check the quality of the dense 
 6. Run Evaluation/Evaluate.
 
 # Our results
-
+•	Baseline is the result of FM-Bench on each dataset.
 Dataset	| recall | inliers before rate | inliers after rate	| Threshold	| distance
 --- | --- |--- |--- |--- | ---
 CPC |	0.099	| 0.213729 | 0.225642	| 3 |	20
